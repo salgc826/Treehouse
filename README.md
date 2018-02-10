@@ -1,5 +1,7 @@
 ## Treehouse
 
-This repo is for all my course file completed through teamtreehouse.com
 
-Checkout my Treehouse profile - https://teamtreehouse.com/salgc826
+This repo is for all my course files completed through teamtreehouse.com
+
+Also checkout my Treehouse profile [here](https://teamtreehouse.com/salgc826).
+
